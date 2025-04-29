@@ -12,7 +12,7 @@ This is a Discord bot that integrates the Ollama AI models for chat-based intera
 ## Requirements
 
 - Python 3.8+
-- `discord.py` library (`pip install discord`)
+- `discord.py` library (`pip install discord.py`)
 - `ollama` library for AI chat integration (`pip install ollama`)
 
 ## Installation
@@ -22,7 +22,7 @@ This is a Discord bot that integrates the Ollama AI models for chat-based intera
    git clone https://github.com/QCrafter/Ollama-Discord-Bot.git
    cd Ollama-Discord-Bot
     ```
-2. Replace "InsertYourTokenHere" in BOT_TOKEN with your actual Discord bot token.
+2. Replace "InsertYourTokenHere" in main.py with your actual Discord bot token.
 3. Run
    ```sh
    python3 main.py
